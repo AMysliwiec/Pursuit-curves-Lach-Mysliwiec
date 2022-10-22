@@ -8,4 +8,4 @@ W projekcie omówione zostało zagadnienie krzywych pościgowych. Zostaną pokaz
 również z uwzględnieniem przestrzeni trójwymiarowych. W projekcie również zostaną użyte i porównane dwie metody numeryczne, które wyznaczą rozwiązania niezbędnych równań różniczkowych. Zostanie również opisany tzw. 'Mice Problem' z przykładem oraz ogólnym wyprowadzeniem równań. <br>
 Powyższy projekt został przedstawiony na kursie Równania różniczkowe w technice i został oceniony na najwyższą możliwą ilość punktów.
 ## Technologie:
-*Julia
+* Julia
